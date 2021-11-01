@@ -6,7 +6,9 @@ To know more about the protocol, please visit: [Chord P2P research paper from MI
 [Akka Documentation](https://doc.akka.io/docs/akka/current/typed/guide/introduction.html)
 # To run the project
 
- Please download the zip **Chord_P2P.zip** and extract it at your desired location. 
+ Please download the zip **Chord_P2P.zip** and extract it at your desired location.
+ 
+ The **BONUS** implementation is also integrated in the same code base. Simply set the last command line argument to `"yes"`.
  
  Run  `dotnet fsi <filename> <numPeers> <numRequests> <deletion>` where
   
